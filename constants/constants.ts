@@ -1,0 +1,6 @@
+export const PRODUCTS_DB_ID = "685d8bc10013feea66cf";
+
+export const PRODUCTS_COLLECTION_ID = "685d8bcf0002d9945108";
+export const ORDERS_COLLECTION_ID = "685d90d10010a4e40fb3";
+export const ORDERS_ITEM_COLLECTION_ID = "685d90dd000b3f6d1b06";
+
