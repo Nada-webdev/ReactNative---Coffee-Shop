@@ -9,8 +9,8 @@ This project was created using [`create-expo-app`](https://www.npmjs.com/package
 - ⚛️ Built with **React Native** via [Expo](https://expo.dev)
 - ☁️ Backend powered by **Appwrite**
 - 🔐 User Authentication (Email/Password)
--   Realtime Database & File Storage
--  Fast styling with [NativeWind](https://www.nativewind.dev/) *(Tailwind-like utility classes)*
+-   Realtime Database
+-  Fast styling with [NativeWind](https://www.nativewind.dev/) 
 
 ---
 
