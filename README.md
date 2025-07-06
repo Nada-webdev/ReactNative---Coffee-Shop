@@ -46,8 +46,9 @@ const client = new Client()
   .setProject("[YOUR-PROJECT-ID]");       // Your project ID
 ```
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/13b0bd61-7896-44a0-af17-45aed1955912" alt="Capture" />
+  <img src="https://github.com/user-attachments/assets/cb838b59-c4b2-4455-88d0-d783c921b021" alt="brand" />
 </p>
+
 
 
 
